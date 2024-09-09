@@ -36,13 +36,7 @@ NVIDIA AI Industry Bootcamp를 수료하며 제작한 프로젝트들을 모아 
 ## 상세 시간표
 ![image](https://github.com/PocachipMind/NVIDIA-AI-Industry-Bootcamp/assets/101550112/4b18e08d-b616-465c-8b19-28d27f5a6d85)
 
-## 개인 메모
-
-0706 부터 빡집중!
-
-0715 사전 테스트 영상이 포함되어 있음.
-
-AMR 해봤다 포폴 에 쓸수있게 노력할것임. 이라하심
+# 개인 메모
 
 ## S1
 #### S1 = numba, cuda를 활용하여 C와 python을 활용한 GPU사용 및 로우레벨 코드전환으로 효율성 높이는 과정을 교육!

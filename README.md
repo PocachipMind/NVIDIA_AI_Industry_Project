@@ -45,28 +45,18 @@ NVIDIA AI Industry Bootcamp를 수료하며 제작한 프로젝트들을 모아 
 AMR 해봤다 포폴 에 쓸수있게 노력할것임. 이라하심
 
 ## S1
-https://drive.google.com/drive/folders/1IgJpfds7mHWeBhoyyfsJZAgEUKMjfaDr
 #### S1 = numba, cuda를 활용하여 C와 python을 활용한 GPU사용 및 로우레벨 코드전환으로 효율성 높이는 과정을 교육!
 ## S2
 
 #### S2 = NVIDIA Omniverse 를 통한 (sim) 딥러닝 학습에 필요한 자료 데이터 수집!
 
-https://drive.google.com/drive/folders/1fgACBBxSI5G_8aCspaXqOLhVXMk5TrPr
-
 https://sketchfab.com/
 
 https://www.andre-gaschler.com/rotationconverter/
 
-7월 29일 최종 폴더의 FINAL FINAL 이 최종 영상
-
-
-7월 29일 부터 새로운 환경 ( Sim 말고 Omniverse )
-
 ## S3
 
 #### S3 = 인공지능에 대한 개념 ( 통계 및 이론 )
-
-https://drive.google.com/drive/u/0/folders/1di67fap4oxL5UDBRlVRqvLcteG249As5
 
 ### 논문과 코드가 같이 공개되어있음!
 https://paperswithcode.com/sota

@@ -11,3 +11,6 @@ DLI 주소 :
 해당 usd 파일들을 바탕화면에 저장한 이후 ( Window 기준 ) 
 
 Test의 코드를 Nvidia Omniverse에 올리고 실행하여 데이터를 제작합니다.
+
+
+![rgb_0002](https://github.com/user-attachments/assets/6e962d4f-62ca-479a-9057-d452e50e5ff0)

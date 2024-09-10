@@ -15,4 +15,12 @@ usd 경로를 수정해 준다면 DLI 내부에서도 실행 가능합니다.
 -> 해당 데이터에대한 바운딩박스 등 학습 데이터가 같이 추출됩니다. 
 
 
+### 학습
+
+해당 데이터를 활용하여 Faster R-CNN모델을 통해 학습을 진행합니다.
+
+자세한 학습 코드는 Make_data_fruit폴더에 있습니다.
+
+[ https://github.com/PocachipMind/NVIDIA_AI_Industry_Project/tree/main/Session2/Omniverse/Make_data_fruit ]
+
 ![rgb_0002](https://github.com/user-attachments/assets/6e962d4f-62ca-479a-9057-d452e50e5ff0)

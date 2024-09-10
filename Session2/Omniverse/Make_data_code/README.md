@@ -12,5 +12,7 @@ DLI 주소 :
 
 Test의 코드를 Nvidia Omniverse에 올리고 실행하여 데이터를 제작합니다.
 
+해당 데이터에대한 바운딩박스 등 학습 데이터가 같이 추출됩니다. 
+
 
 ![rgb_0002](https://github.com/user-attachments/assets/6e962d4f-62ca-479a-9057-d452e50e5ff0)

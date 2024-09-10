@@ -3,6 +3,7 @@
 
 usd 경로를 수정해 준다면 DLI 내부에서도 실행 가능합니다.
 
+DLI 주소 : https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-03+V1
 
 ### 학습 데이터 제작
 

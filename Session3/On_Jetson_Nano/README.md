@@ -2,6 +2,8 @@
 
 ## 실행 환경 : Hardware
 Jetson Nano 2GB
+
+
 ![image](https://github.com/user-attachments/assets/3cc3aa59-6ec2-4d2c-bcf3-dc55cc9a4b83)
 
 ## 실행 환경 : Software

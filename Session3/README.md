@@ -5,6 +5,11 @@
 #### 시연 영상 [ 소리 존재 ]
 https://github.com/user-attachments/assets/5aa59ae5-6378-41ce-a4fd-6294c21793b9
 
+횡단 보도를 발견하면 : Crosswalk Detected 라고 소리가 납니다.
+
+횡단 보도가 현재 빨간불이거나 자동차가 있어서 건널 수 없다면 : You can not cross. Please wait a moment. 라고 소리가 납니다.
+
+횡단 보도가 초록불이며 건널 수 있다면 : You can cross over. Please cross with care. 라고 소리가 납니다.
 
 ## 개요
 시각 장애인들이 횡단보도를 건널 때 도움이 되는 프로그램을 제작.
@@ -13,12 +18,6 @@ https://github.com/user-attachments/assets/5aa59ae5-6378-41ce-a4fd-6294c21793b9
 
 ![image](https://github.com/user-attachments/assets/57c39be4-4e74-46d2-ae23-3a1c84bd77cb)
 
-
-횡단 보도를 발견하면 : Crosswalk Detected 라고 소리가 납니다.
-
-횡단 보도가 현재 빨간불이거나 자동차가 있어서 건널 수 없다면 : You can not cross. Please wait a moment. 라고 소리가 납니다.
-
-횡단 보도가 초록불이며 건널 수 있다면 : You can cross over. Please cross with care. 라고 소리가 납니다.
 
 ## Repository 설명
 - On_Jetson_Nano :

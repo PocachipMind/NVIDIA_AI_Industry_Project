@@ -2,5 +2,6 @@
 
 시각 장애인을 위한 횡단보도 감지 프로그램.
 
-https://github.com/user-attachments/assets/ca0e1d69-88da-4962-aad8-2c0dceb3ff59
+
+https://github.com/user-attachments/assets/5aa59ae5-6378-41ce-a4fd-6294c21793b9
 

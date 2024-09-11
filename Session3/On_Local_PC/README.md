@@ -55,7 +55,8 @@ $ conda activate nvidia_openCV_pj_env
 ```
 $ git clone https://github.com/PocachipMind/NVIDIA_AI_Industry_Project.git
 ```
-그 이후 환경 설정한 VS Code에서 해당 폴더로 이동합니다.
+그 이후 환경 설정한 VS Code에서 지금 이 폴더로 이동합니다. ( NVIDIA_AI_Industry_Project/Session3/On_Local_PC
+/)
 
 ![image](https://github.com/user-attachments/assets/7ef7ecc4-f00f-49d6-a222-66f7e56bc4e6)
 
@@ -73,4 +74,17 @@ $ git clone https://github.com/PocachipMind/NVIDIA_AI_Industry_Project.git
 
 ## 실행 화면
 
+
+### 1. 로컬(컴퓨터)
+
+https://github.com/user-attachments/assets/8b75aa29-b906-4569-9293-0dc36d12f719
+
+![image](https://github.com/user-attachments/assets/287ad09e-c159-4d2b-8975-13141b02f7fa)
+
+
+### 2. 웹(인터넷)
+
+[ Gradio 프레임 워크 사용 ]
+
+![2 웹-14Page](https://github.com/user-attachments/assets/7ae30423-b79f-4872-8df2-38857d05fbc2)
 

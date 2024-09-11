@@ -60,6 +60,7 @@ jetson-stats==3.1.4
 ```
 $ git clone https://github.com/PocachipMind/NVIDIA_AI_Industry_Project.git
 ```
+그 이후 해당 폴더로 이동합니다.
 ```
 $ cd NVIDIA_AI_Industry_Project
 ```
@@ -70,7 +71,7 @@ $ cd Session3
 $ cd On_Jetson_Nano
 ```
 
-```JetsonNano_video(TensorRT).py```을 실행합니다. 
+마지막으로 ```JetsonNano_video(TensorRT).py```을 실행합니다. 
 ```
 $ python3 JetsonNano_video(TensorRT).py
 ```

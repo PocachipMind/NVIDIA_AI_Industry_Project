@@ -50,3 +50,8 @@ pip3 install torch-1.10.0-cp36-cp36m-linux_aarch64.whl
 git clone --branch v0.11.1 https://github.com/pytorch/vision torchvision
 
 cd torchvision
+
+sudo python3 setup.py install 
+
+#### Not required but good library
+jetson-stats==3.1.4

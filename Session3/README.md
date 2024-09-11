@@ -92,7 +92,7 @@ Yolov5, Yolov7 두 모델 모두 TensorRT 가능했지만, Yolov5의 정밀도�
 - 자세한 내용은 첨부된 A Comparative Study of YOLOv5 and YOLOv7.pdf 논문 참조
 
 
-또한 최종적으로 나노 젯슨에 적용할 것이기에 임베디드 기기에 적합한 가장 작은 모델 사용하였습니다.
+또한 최종적으로 나노 젯슨에 적용할 것이기에 임베디드 기기에 적합한 가장 작은 Yolov5 nano 모델을 사용하였습니다.
 
 ![image](https://github.com/user-attachments/assets/03e57880-ee0a-43af-bfc9-3500363157ba)
 

@@ -30,12 +30,18 @@ https://github.com/user-attachments/assets/5aa59ae5-6378-41ce-a4fd-6294c21793b9
 
 AI Hub, GitHub 등 인터넷에서 찾아낸 데이터와 직접 촬영한 데이터.
 
-출처 :
+1. AI HUB | 인도보행 영상 데이터셋
 https://github.com/samuelyu2002/ImVisible?tab=readme-ov-file
 
+2. 중국 횡단보도 이미지 | ImVisible 데이터셋
 https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=189
 
-이미지는 해당 사이트를 통해 얻었으나, 라벨링이 내가 원하는 방식으로 되어있지 않아 최종 약 3000장 직접 일일이 라벨링
+3. 직접 촬영한 데이터
+
+
+이미지는 해당 사이트를 통해 얻었으나, 라벨링이 내가 원하는 방식으로 되어있지 않아 최종 약 3000장 직접 일일이 라벨링.
+
+직접 촬영한 데이터가 학습에 대략 40% 차지.
 
 ![image](https://github.com/user-attachments/assets/baf91b30-0623-47ef-af03-e2ee1b09ddab)
 

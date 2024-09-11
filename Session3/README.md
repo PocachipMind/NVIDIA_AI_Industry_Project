@@ -26,7 +26,7 @@ https://github.com/user-attachments/assets/5aa59ae5-6378-41ce-a4fd-6294c21793b9
 
 이번 OpenCV 프로젝트는 NVIDIA AI Inderstry 에 걸맞게 NVIDIA NANO JETSON을 활용한 프로젝트를 진행하고 싶었습니다.
 
-나노 젯슨의 "소형", "GPU 존재"에 아이디어를 얻어 해당 프로젝트를 생각하게 되었습니다.
+나노 젯슨의 특징인 "소형", "GPU 존재"에 아이디어를 얻어 해당 프로젝트를 생각하게 되었습니다.
 
 최종적으로 학습한 모델을 TensorRT를 통해 nano jetson 기기에 최적화 시키고 성능을 비교해보는 것에 목적을 둡니다.
 

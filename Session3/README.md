@@ -25,3 +25,18 @@ https://github.com/user-attachments/assets/5aa59ae5-6378-41ce-a4fd-6294c21793b9
 - Test_Performance
 
   기본 pt 모델, ONNX 모델, TensorRT로 최적화된 모델. 이 세 모델을 비교하기 위한 코드들
+
+## 학습 데이터
+
+AI Hub, GitHub 등 인터넷에서 찾아낸 데이터와 직접 촬영한 데이터.
+
+출처 :
+https://github.com/samuelyu2002/ImVisible?tab=readme-ov-file
+
+https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=189
+
+이미지는 해당 사이트를 통해 얻었으나, 라벨링이 내가 원하는 방식으로 되어있지 않아 최종 약 3000장 직접 일일이 라벨링
+
+![image](https://github.com/user-attachments/assets/baf91b30-0623-47ef-af03-e2ee1b09ddab)
+
+

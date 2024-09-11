@@ -1,10 +1,8 @@
 # CrossWalk Detection For ImVisible People On Jetson Nano
 
-## 실행 환경
-
-### Hardware
+## 실행 환경 : Hardware
 Jetson Nano 2GB
-### SoftWare
+## 실행 환경 : Software
 #### Install libraries
 sudo apt-get update
 

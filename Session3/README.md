@@ -83,7 +83,7 @@ https://github.com/samuelyu2002/ImVisible?tab=readme-ov-file
 
 ## 학습 모델
 
-최종적으로 Nano Jetson에 적용할 것이므로 Fast RCNN 보다 6배 빠른 YOLO 채택했습니다.
+최종적으로 Nano Jetson에 적용할 것이므로 Fast RCNN 보다 6배 빠른 YOLO를 채택했습니다.
 
 Yolov5, Yolov7 두 모델 모두 TensorRT 가능했지만, Yolov5의 정밀도와 mAP가 yolov7보다 높아 실시간성 목적에는 yolov5가 적합하다고 판단하여 Yolov5를 사용하였습니다. 
 
@@ -150,3 +150,33 @@ https://github.com/user-attachments/assets/b1fcc4cb-8772-4316-bcaf-448ee6f6695f
 
 
 ![image](https://github.com/user-attachments/assets/86b1f062-6f20-4932-ad36-4a0c734af7bf)
+
+#### 한계점
+
+모두 잘 동작하는것을 확인 할 수 있었지만, 작은 기기의 카메라와 스피커를 구하지못하여 실제 상황처럼 시연해보지는 못했습니다.
+
+## 모델 성능 비교
+
+모델을 각각 pt, onnx, tensorRT변환 이렇게 3종류로 변환하고 성능을 비교해봅니다.
+
+![image](https://github.com/user-attachments/assets/f2077fc1-c961-47aa-9871-8b4c6126ee2e)
+
+다음과 같은 코드로 추론시간만 측정하도록 노력했습니다
+
+![image](https://github.com/user-attachments/assets/8ea24e00-c153-4487-a7b7-3e32fa73e273)
+
+### 성능 비교
+![image](https://github.com/user-attachments/assets/cb5e948c-a7f1-43b4-b116-cb79cb3796e9)
+
+보라색 화면의 경우 nano jetson, 하얀 배경의 경우 제 로컬 PC입니다.
+
+pt파일의 경우 나노 젯슨에서 실행해보지 못했습니다.
+
+이에, 제 로컬에서 비교한 내용을 기재합니다. 로컬 TensorRT의 경우 조만간 수정해서 올릴 예정입니다.
+
+## 구현 이슈
+
+![image](https://github.com/user-attachments/assets/aca1720a-ca45-42da-89c5-6285a5aec5aa)
+![image](https://github.com/user-attachments/assets/afb73d82-d7af-405a-a0a0-b716fd2c0a87)
+
+

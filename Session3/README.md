@@ -32,11 +32,16 @@ AI Hub, GitHub 등 인터넷에서 찾아낸 데이터와 직접 촬영한 데�
 
 ### 1. AI HUB | 인도보행 영상 데이터셋
 
-https://github.com/samuelyu2002/ImVisible?tab=readme-ov-file
+https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=189
+![image](https://github.com/user-attachments/assets/a9a9fd26-bc6d-46c8-9845-41162e8435ba)
+- 이미지 예시
+  ![image](https://github.com/user-attachments/assets/a21ef189-8664-4fbc-b30c-3af90b039b13)
+
 
 ### 2. 중국 횡단보도 이미지 | ImVisible 데이터셋
 
-https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=189
+https://github.com/samuelyu2002/ImVisible?tab=readme-ov-file
+![image](https://github.com/user-attachments/assets/66aeb372-7773-4596-9527-79f6a9b89d1a)
 
 ### 3. 직접 촬영한 데이터
 

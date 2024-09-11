@@ -8,7 +8,8 @@
 
 링크 : http://www.anaconda.com/
 
-![image](https://github.com/user-attachments/assets/4490edac-3579-495c-a60d-b2e78329026e)
+![image](https://github.com/user-attachments/assets/eef74a9d-5c5b-4746-9fc0-fe6839dc87ca)
+
 
 ### 2. Anaconda 설치 후 Terminal 실행 ( Windows OS 기준 Powershell Prompt )
 
@@ -17,7 +18,7 @@
 ### 3. Terminal 실행 후 Python 가상환경 활성화
 
 - 첨부된 nvidia_openCV_pj_env.yaml을 활용
-- 
+  
 - 하기와 같은 Command를 사용하여 가상환경 설치 진행
 ```
 $ conda env create -f nvidia_openCV_pj_env.yaml

@@ -38,15 +38,19 @@ https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=
 <img src="https://github.com/user-attachments/assets/a9a9fd26-bc6d-46c8-9845-41162e8435ba" width="70%" height="70%"/>
 
 - 이미지 예시
-  ![image](https://github.com/user-attachments/assets/a21ef189-8664-4fbc-b30c-3af90b039b13)
+  <img src="https://github.com/user-attachments/assets/a21ef189-8664-4fbc-b30c-3af90b039b13" width="50%" height="50%"/>
 
 
 ### 2. 중국 횡단보도 이미지 | ImVisible 데이터셋
 
 https://github.com/samuelyu2002/ImVisible?tab=readme-ov-file
-![image](https://github.com/user-attachments/assets/66aeb372-7773-4596-9527-79f6a9b89d1a)
+
+<img src="https://github.com/user-attachments/assets/66aeb372-7773-4596-9527-79f6a9b89d1a" width="50%" height="50%"/>
+
 
 ### 3. 직접 촬영한 데이터
+
+<img src="https://github.com/user-attachments/assets/9826325a-dd59-434a-b1dc-6d57d56c0673" width="50%" height="50%"/>
 
 
 <br>

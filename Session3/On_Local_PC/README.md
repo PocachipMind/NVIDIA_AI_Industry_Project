@@ -56,6 +56,7 @@ $ conda activate nvidia_openCV_pj_env
 $ git clone https://github.com/PocachipMind/NVIDIA_AI_Industry_Project.git
 ```
 그 이후 환경 설정한 VS Code에서 해당 폴더로 이동합니다.
+
 ![image](https://github.com/user-attachments/assets/7ef7ecc4-f00f-49d6-a222-66f7e56bc4e6)
 
 해당 폴더 내의 ```local_video(pygame).py``` 또는 ```web_video(gradio).py``` 을 실행합니다. 

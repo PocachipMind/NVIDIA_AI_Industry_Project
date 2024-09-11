@@ -138,7 +138,7 @@ https://github.com/user-attachments/assets/8b75aa29-b906-4569-9293-0dc36d12f719
 
 ### 3. 나노 젯슨
 
-동영상의 경우 :
+동영상의 경우 ( 30초부터 프로그램 실행 ) :
 
 
 https://github.com/user-attachments/assets/7e5211ec-014f-46e1-9fae-1f11952cdadc
@@ -153,7 +153,7 @@ https://github.com/user-attachments/assets/b1fcc4cb-8772-4316-bcaf-448ee6f6695f
 
 #### 한계점
 
-모두 잘 동작하는것을 확인 할 수 있었지만, 작은 기기의 카메라와 스피커를 구하지못하여 실제 상황처럼 시연해보지는 못했습니다.
+모두 잘 동작하는것을 확인 할 수 있었지만, 작은 기기의 카메라와 스피커를 구하지못하여 실제 상황처럼 길거리에서 시연해보지는 못했습니다.
 
 ## 모델 성능 비교
 

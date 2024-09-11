@@ -1,21 +1,21 @@
 # CrossWalk Detection For ImVisible People On Jetson Nano
 
-# 실행 환경
+## 실행 환경
 
-## Hardware
+### Hardware
 Jetson Nano 2GB
-## SoftWare
-### Install libraries
+### SoftWare
+#### Install libraries
 sudo apt-get update
 
 sudo apt-get install -y liblapack-dev libblas-dev gfortran libfreetype6-dev libopenblas-base libopenmpi-dev libjpeg-dev zlib1g-dev
 
 sudo apt-get install -y python3-pip
 
-### Update Pip
+#### Update Pip
 python3 -m pip install --upgrade pip
 
-### Install below necessary packages <Br> For numpy, first uninstall the version already installed, and then install numpy==1.19.0
+#### Install below necessary packages <Br> For numpy, first uninstall the version already installed, and then install numpy==1.19.0
 numpy==1.19.0
 
 pandas==0.22.0
@@ -32,17 +32,17 @@ tqdm==4.64.1
 
 imutils
 
-### Install Pycuda
+#### Install Pycuda
 export PATH=/usr/local/cuda-10.2/bin${PATH:+:${PATH}}
 
 export LD_LIBRARY_PATH=/usr/local/cuda-10.2/lib64:$LD_LIBRARY_PATH
 
 python3 -m pip install pycuda --user
 
-### Install Seaborn
+#### Install Seaborn
 sudo apt install python3-seaborn
 
-### Install torch & torchvision
+#### Install torch & torchvision
 wget https://nvidia.box.com/shared/static/fjtbno0vpo676a25cgvuqc1wty0fkkg6.whl -O torch-1.10.0-cp36-cp36m-linux_aarch64.whl
 
 pip3 install torch-1.10.0-cp36-cp36m-linux_aarch64.whl

@@ -11,7 +11,7 @@ https://github.com/user-attachments/assets/5aa59ae5-6378-41ce-a4fd-6294c21793b9
 
 ## - On_Jetson_Nano 폴더 :
 ### Hardware
-Jetson Nano 2B
+Jetson Nano 2GB
 ### SoftWare
 #### Install libraries
 sudo apt-get update

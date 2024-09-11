@@ -63,3 +63,12 @@ https://github.com/samuelyu2002/ImVisible?tab=readme-ov-file
 ![image](https://github.com/user-attachments/assets/baf91b30-0623-47ef-af03-e2ee1b09ddab)
 
 
+## 학습 모델
+
+최종적으로 Nano Jetson에 적용할 것이므로 Fast RCNN 보다 6배 빠른 YOLO 채택
+
+Yolov5, Yolov7 두 모델 모두 TensorRT 가능BUT Yolov5의  정밀도와 mAP가 yolov7보다 높아실시간성 목적에는 yolov5가 적합. 
+
+![image](https://github.com/user-attachments/assets/759ce6f1-122f-4eb1-92d3-72ee00a5377b)
+
+- 자세한 내용은 첨부된 A Comparative Study of YOLOv5 and YOLOv7.pdf 논문 참조

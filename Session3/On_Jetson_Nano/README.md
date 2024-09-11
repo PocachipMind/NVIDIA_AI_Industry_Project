@@ -7,6 +7,11 @@ Jetson Nano 2GB
 ![image](https://github.com/user-attachments/assets/3cc3aa59-6ec2-4d2c-bcf3-dc55cc9a4b83)
 
 ## 실행 환경 : Software
+
+저의 경우 NVIDIA nano jetson 기본 OS 우분투 환경에서 진행합니다.
+
+다음 명령어를 따라 입력합니다.
+
 #### Install libraries
 sudo apt-get update
 

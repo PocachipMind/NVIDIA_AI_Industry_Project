@@ -53,3 +53,29 @@ sudo python3 setup.py install
 
 #### Not required but good library
 jetson-stats==3.1.4
+
+## 실행 방법
+
+이 프로젝트의 최상위 레파지토리를 클론합니다. 
+```
+$ git clone https://github.com/PocachipMind/NVIDIA_AI_Industry_Project.git
+```
+```
+$ cd NVIDIA_AI_Industry_Project
+```
+```
+$ cd Session3
+```
+```
+$ cd On_Jetson_Nano
+```
+
+```JetsonNano_video(TensorRT).py```을 실행합니다. 
+```
+$ python3 JetsonNano_video(TensorRT).py
+```
+
+
+코드 내부에서 동영상 파일의 경로를 수정하거나 주석을 해제해서 카메라를 활용해보세요.
+![image](https://github.com/user-attachments/assets/0b92a0a9-8286-43d5-8e67-4952a65e8bd2)
+

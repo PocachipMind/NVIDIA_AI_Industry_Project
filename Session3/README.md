@@ -163,7 +163,7 @@ https://github.com/user-attachments/assets/b1fcc4cb-8772-4316-bcaf-448ee6f6695f
 
 다음과 같은 코드로 추론시간만 측정하도록 노력했습니다
 
-![image](https://github.com/user-attachments/assets/8ea24e00-c153-4487-a7b7-3e32fa73e273)
+<img src="https://github.com/user-attachments/assets/aea14aba-a42c-482c-bc7e-efa9be838c6c" width="80%" height="80%"/>
 
 ### 성능 비교
 ![image](https://github.com/user-attachments/assets/cb5e948c-a7f1-43b4-b116-cb79cb3796e9)

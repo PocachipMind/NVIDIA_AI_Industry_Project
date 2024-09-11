@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fce57095-ad51-41da-85c6-e47d8a1087c0)# CrossWalk Detection For ImVisible People
+# CrossWalk Detection For ImVisible People
 
 시각 장애인을 위한 횡단보도 감지 프로그램.
 

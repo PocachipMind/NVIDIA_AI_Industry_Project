@@ -7,14 +7,15 @@ https://github.com/user-attachments/assets/5aa59ae5-6378-41ce-a4fd-6294c21793b9
 
 
 
-## 실행 환경
+# 실행 환경
 
-- On_Jetson_Nano 폴더 :
+## - On_Jetson_Nano 폴더 :
 ### Hardware
 Jetson Nano
 ### SoftWare
 #### Install libraries
 sudo apt-get update
+<Br>
 sudo apt-get install -y liblapack-dev libblas-dev gfortran libfreetype6-dev libopenblas-base libopenmpi-dev libjpeg-dev zlib1g-dev
 sudo apt-get install -y python3-pip
 

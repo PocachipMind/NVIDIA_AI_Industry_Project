@@ -56,13 +56,20 @@ $ conda activate nvidia_openCV_pj_env
 $ git clone https://github.com/PocachipMind/NVIDIA_AI_Industry_Project.git
 ```
 그 이후 환경 설정한 VS Code에서 해당 폴더로 이동합니다.
+![image](https://github.com/user-attachments/assets/7ef7ecc4-f00f-49d6-a222-66f7e56bc4e6)
 
 해당 폴더 내의 ```local_video(pygame).py``` 또는 ```web_video(gradio).py``` 을 실행합니다. 
+
+![image](https://github.com/user-attachments/assets/689d01a8-ddb9-4afe-8be5-ac130650f203)
 
 이름에서 알 수 있다 싶이, local은 바로실행, gradio는 웹을 통해 모델을 사용해봅니다.
 
 <br>
 
 ```local_video(pygame).py``` 코드 내부에서 동영상 파일의 경로를 수정하거나 주석을 해제해서 카메라를 활용해보세요.
+
+![image](https://github.com/user-attachments/assets/58255295-0388-4dfa-be92-f90870a51489)
+
+## 실행 화면
 
 

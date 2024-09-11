@@ -87,3 +87,17 @@ $ python3 JetsonNano_video(TensorRT).py
 
 ![image](https://github.com/user-attachments/assets/0b92a0a9-8286-43d5-8e67-4952a65e8bd2)
 
+## 실행 화면
+
+동영상의 경우 ( 30초부터 프로그램 실행 ) :
+
+
+https://github.com/user-attachments/assets/7e5211ec-014f-46e1-9fae-1f11952cdadc
+
+
+카메라의 경우 :
+
+https://github.com/user-attachments/assets/b1fcc4cb-8772-4316-bcaf-448ee6f6695f
+
+
+![image](https://github.com/user-attachments/assets/86b1f062-6f20-4932-ad36-4a0c734af7bf)

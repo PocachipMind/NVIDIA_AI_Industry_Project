@@ -31,10 +31,12 @@ NVIDIA AI Industry Bootcamp를 수료하며 제작한 프로젝트들을 모아 
 #### 7. 문의처 및 제출처 : 02-2188-6992 / kosaedu@sw.or.kr 
 
 ## 교육 내용
-![image](https://github.com/PocachipMind/NVIDIA-AI-Industry-Bootcamp/assets/101550112/6137754a-ced0-4aed-8b74-f42fc448e054)
+
+![image](https://github.com/user-attachments/assets/8f1570a0-1961-4950-8df2-48e254838d1b)
 
 ## 상세 시간표
-![image](https://github.com/PocachipMind/NVIDIA-AI-Industry-Bootcamp/assets/101550112/4b18e08d-b616-465c-8b19-28d27f5a6d85)
+
+![image](https://github.com/user-attachments/assets/2cdd7e09-51aa-4e75-bc58-46a4947e016e)
 
 # 개인 메모
 

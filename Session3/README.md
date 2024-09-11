@@ -15,15 +15,15 @@ Jetson Nano
 ### SoftWare
 #### Install libraries
 sudo apt-get update
-<Br>
+
 sudo apt-get install -y liblapack-dev libblas-dev gfortran libfreetype6-dev libopenblas-base libopenmpi-dev libjpeg-dev zlib1g-dev
+
 sudo apt-get install -y python3-pip
 
 #### Update Pip
 python3 -m pip install --upgrade pip
 
-#### Install below necessary packages
-#### For numpy, first uninstall the version already installed, and then install numpy==1.19.0
+#### Install below necessary packages <Br> For numpy, first uninstall the version already installed, and then install numpy==1.19.0
 numpy==1.19.0
 pandas==0.22.0
 Pillow==8.4.0

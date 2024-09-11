@@ -34,7 +34,9 @@ AI Hub, GitHub 등 인터넷에서 찾아낸 데이터와 직접 촬영한 데�
 ### 1. AI HUB | 인도보행 영상 데이터셋
 
 https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=189
-![image](https://github.com/user-attachments/assets/a9a9fd26-bc6d-46c8-9845-41162e8435ba)
+
+<img src="https://github.com/user-attachments/assets/a9a9fd26-bc6d-46c8-9845-41162e8435ba" width="70%" height="70%"/>
+
 - 이미지 예시
   ![image](https://github.com/user-attachments/assets/a21ef189-8664-4fbc-b30c-3af90b039b13)
 

@@ -77,6 +77,7 @@ $ python3 JetsonNano_video(TensorRT).py
 ```
 
 <br>
+
 ```JetsonNano_video(TensorRT).py``` 코드 내부에서 동영상 파일의 경로를 수정하거나 주석을 해제해서 카메라를 활용해보세요.
 
 

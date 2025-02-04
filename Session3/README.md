@@ -172,7 +172,7 @@ https://github.com/user-attachments/assets/b1fcc4cb-8772-4316-bcaf-448ee6f6695f
 
 pt파일의 경우 나노 젯슨에서 실행해보지 못했습니다.
 
-이에, 제 로컬에서 비교한 내용을 기재합니다. 로컬 TensorRT의 경우 조만간 수정해서 올릴 예정입니다.
+이에, 제 로컬에서 비교한 내용을 기재합니다.
 
 ## 구현 이슈
 
